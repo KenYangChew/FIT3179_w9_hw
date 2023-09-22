@@ -1,4 +1,4 @@
-,Country,Continent,Production (Tons),Production per Person (Kg),Acreage (Hectare),Yield (Kg / Hectare)
+,Country,Continent,Production,Production per Person (Kg),Acreage (Hectare),Yield (Kg / Hectare)
 0,Brazil,South America,768.678.382,"3.668,531",10.226.205,"75.167,5"
 1,India,Asia,348.448.000,260721,4.950.000,"70.393,5"
 2,China,Asia,123.059.739,88287,1.675.215,"73.459,1"
