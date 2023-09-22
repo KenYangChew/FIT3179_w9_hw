@@ -4,10 +4,7 @@
   "padding": 5,
   "width": 800,
   "height": 400,
-  "title": {
-    "text": "GDP Sector",
-    "frame": "group"
-  },
+  "title": {"text": "GDP Sector", "frame": "group"},
   "style": "view",
   "data": [
     {
