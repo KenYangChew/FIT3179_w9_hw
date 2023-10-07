@@ -87,5 +87,14 @@
       "title": "Industry"
     }
   ],
+  "tooltip": [
+    {"field": "Country", "type": "nominal"},
+    {"field": "Rank", "type": "quantitative", "format": ","}
+    ],
+  {
+    "field": "Industry",
+    "type": "quantitative",
+    "format": ".2f"
+    }
   "config": {}
 }
