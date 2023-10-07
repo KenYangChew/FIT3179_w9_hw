@@ -87,5 +87,17 @@
       "title": "Industry"
     }
   ],
+  "tooltip": [
+    {"field": "Country", "type": "nominal"},
+    {"field": "Confirmed", "type": "quantitative", "format": ","},
+    {"field": "Active", "type": "quantitative", "format": ","},
+    {"field": "Deaths", "type": "quantitative", "format": ","},
+    {"field": "Recovered", "type": "quantitative", "format": ","},
+    {
+    "field": "Cases per 10,000 Population",
+    "type": "quantitative",
+    "format": ".2f"
+    }
+    ],
   "config": {}
 }
